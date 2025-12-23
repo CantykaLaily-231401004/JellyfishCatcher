@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: b397f3f2d5393734596ce2b55aab6ee0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2167375981185588152
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_0
+  - first:
+      213: -88483932660965941
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_1
+  - first:
+      213: -3047516390131103244
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_2
+  - first:
+      213: -7699159932538248306
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_3
+  - first:
+      213: -5673066704647320500
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_4
+  - first:
+      213: 716636062758046682
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_5
+  - first:
+      213: -4191441094158457793
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_6
+  - first:
+      213: 3954673757260184404
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_7
+  - first:
+      213: 1728150952662949008
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_8
+  - first:
+      213: -8328657403814802131
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_9
+  - first:
+      213: 577116517222227878
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_10
+  - first:
+      213: -2381317865432083556
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_11
+  - first:
+      213: -4870312588980026704
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_12
+  - first:
+      213: -8065232733319943277
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_13
+  - first:
+      213: 3029890889708245904
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_14
+  - first:
+      213: 4939234414774001587
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_15
+  - first:
+      213: 1860798980440758093
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_16
+  - first:
+      213: -5975051144470706563
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_17
+  - first:
+      213: 3385630848185002311
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_18
+  - first:
+      213: 6103922165822379941
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_19
+  - first:
+      213: 2955260901745851418
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_20
+  - first:
+      213: -8284742082921383364
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_21
+  - first:
+      213: 2771885095097727613
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_22
+  - first:
+      213: -7910696629694088360
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_23
+  - first:
+      213: -4818923486212537285
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_24
+  - first:
+      213: -8136046495972252152
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_25
+  - first:
+      213: -4725579635209943819
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_26
+  - first:
+      213: 5221855729273173220
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_27
+  - first:
+      213: -4139172007969301291
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_28
+  - first:
+      213: 7413846671584599725
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_29
+  - first:
+      213: 5387000611517701826
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_30
+  - first:
+      213: 3266422340483156263
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_31
+  - first:
+      213: 6778584892316052401
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_32
+  - first:
+      213: -3032464781845357842
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_33
+  - first:
+      213: 5091944403734489891
+    second: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PanelUI_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1749
+        width: 800
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e16edcbd73234c4b94bbab21860093e
+      internalID: -199005533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_1
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1167
+        width: 946
+        height: 698
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c731bd43d27678c4595ed715520eb019
+      internalID: 350980029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1632
+        width: 800
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f40a52808dd5441be93680fbd751ef
+      internalID: -1109691394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1515
+        width: 800
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e726caaabd12ad54d9cf2472d557f284
+      internalID: 158343401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1399
+        width: 799
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c0634f6a60e7249b3ec6da94787986
+      internalID: 311376262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1282
+        width: 799
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a61b9dfd4f97947ba41deee0d2ee4b
+      internalID: -1029474198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1165
+        width: 799
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584f90a9401c0be4e97b742a870cbae6
+      internalID: 1850288107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 890
+        width: 618
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af195991c4722044a973cd8cf59ab49
+      internalID: -1317538909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_8
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 890
+        width: 545
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459d776823e584c41ac15ad13faca87a
+      internalID: 901268640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_9
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 890
+        width: 544
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b459669d1778944b6409c4f5e47fbf
+      internalID: 899066923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 631
+        width: 170
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7daee01e8099d419065e45cfe11bb1
+      internalID: -1755782791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 631
+        width: 171
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9fd1819172c86468d2c48d3a836afd
+      internalID: -1291668292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_12
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 631
+        width: 171
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d513da4f1bf914eb8dbb451925f279
+      internalID: -1073949762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_13
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 631
+        width: 171
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6923e53eca26f1a4183b29048bcc1ed5
+      internalID: -727831625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_14
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 631
+        width: 171
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a0bcf0e65474340b877ef201437490
+      internalID: 1953139686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_15
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 631
+        width: 170
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093e901da6d44cb4b875f9e4bb0c4c1b
+      internalID: -683979234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 631
+        width: 171
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b5f9b2b0affac4bbeda7c7ed55aeef
+      internalID: 1689897182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_17
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 631
+        width: 171
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a5e00a403abd94b80380d43a95abfd
+      internalID: -2134992532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_18
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 631
+        width: 171
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27496a5af506bd46807d355532fb7dc
+      internalID: 2082632157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 378
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aacaf538cefd2429d958d1488e55db
+      internalID: 756902127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 378
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bba1977965d9f419827fea30e85678
+      internalID: 1082158329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_21
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 378
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f04f1a5711513643bf622d4694465ed
+      internalID: 358712687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 378
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8e5e8369739b84bae6994d373b29ba
+      internalID: -1587249168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_23
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 378
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e026ae4570e5f9428e025eb3ca84556
+      internalID: 1568319630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_24
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 378
+        width: 180
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60d5ee434dcdd84ca579eaa2adf72af
+      internalID: -1055093708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_25
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 378
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee1a98fd0c1a634e8ee41647af3e23b
+      internalID: -962278766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_26
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 378
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fd27054d269d84e9d5547e55a9a84d
+      internalID: -902582211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_27
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 378
+        width: 181
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9938c93988e45d34b94962f8fd1362be
+      internalID: -519897579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 128
+        width: 207
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce751568eff928c40bf3ff2163b14bf1
+      internalID: 2118037396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 207
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e167388ae8a04b4592dd811721a84fb
+      internalID: -213901584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_30
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 120
+        width: 156
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9a72ecf7dc84041bd7e6f2fd781589
+      internalID: 773458786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 120
+        width: 163
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ebb74d1d1f2a4cbec7260ddebe14c
+      internalID: 828392638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_32
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 132
+        width: 157
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc9088bf5940fc4b954e26fbf829699
+      internalID: -113673404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_33
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 138
+        width: 157
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510504b037d453b45b2f9231347f1675
+      internalID: -403819200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PanelUI_34
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 130
+        width: 580
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efe16228606a934ead90bed21f582a4
+      internalID: -1331342003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ef07a966b21336a4f857cdec737f14f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PanelUI_0: -199005533
+      PanelUI_1: 350980029
+      PanelUI_10: -1755782791
+      PanelUI_11: -1291668292
+      PanelUI_12: -1073949762
+      PanelUI_13: -727831625
+      PanelUI_14: 1953139686
+      PanelUI_15: -683979234
+      PanelUI_16: 1689897182
+      PanelUI_17: -2134992532
+      PanelUI_18: 2082632157
+      PanelUI_19: 756902127
+      PanelUI_2: -1109691394
+      PanelUI_20: 1082158329
+      PanelUI_21: 358712687
+      PanelUI_22: -1587249168
+      PanelUI_23: 1568319630
+      PanelUI_24: -1055093708
+      PanelUI_25: -962278766
+      PanelUI_26: -902582211
+      PanelUI_27: -519897579
+      PanelUI_28: 2118037396
+      PanelUI_29: -213901584
+      PanelUI_3: 158343401
+      PanelUI_30: 773458786
+      PanelUI_31: 828392638
+      PanelUI_32: -113673404
+      PanelUI_33: -403819200
+      PanelUI_34: -1331342003
+      PanelUI_4: 311376262
+      PanelUI_5: -1029474198
+      PanelUI_6: 1850288107
+      PanelUI_7: -1317538909
+      PanelUI_8: 901268640
+      PanelUI_9: 899066923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
